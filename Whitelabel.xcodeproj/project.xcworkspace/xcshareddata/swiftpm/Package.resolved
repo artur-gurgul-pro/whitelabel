@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "sharepack",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/artur-gurgul-pro/sharepack",
+      "state" : {
+        "branch" : "main",
+        "revision" : "e0ace212d1d6c721708ccc900a33cabf4932c9bd"
+      }
+    }
+  ],
+  "version" : 2
+}
